@@ -16,7 +16,7 @@ Download the data set: https://drive.google.com/drive/folders/1-OHsIFdEvLQM7-OHt
 1) Open test.ipynb
 1) In the import: select from model_resnet50 import Model to test the ResNet50 model and from model_mobilenetv2 import Model to test the MobileNetV2 model.
 2) Select a model_path (The path of the saved model to test), be careful to select the right model for testing either ResNet50 or MobileNetV2.
-You can also test my trained models in the zip file models.rar.
+You can also test my trained models after downloading them from: https://drive.google.com/drive/folders/1DuZa7rnbZ0VQuIN5FOexXmhWUNEmWBEB?usp=sharing
 4) Execute test.ipynb
 
 # Face Extractor
